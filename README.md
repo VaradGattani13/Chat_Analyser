@@ -7,7 +7,7 @@ Primary features of the application includes:<br/>
 
 **Most used Words And Emojis**<br/>
 
-**Monthly and Daily Timeline ** (Both Group and Personal Chat)<br/>
+**Monthly and Daily Timeline** (Both Group and Personal Chat)<br/>
 **Activity Tracker** <br/>
 **Word Cloud**  (Haven't Been displayed in following images due to privacy reasons. <br/>
 
