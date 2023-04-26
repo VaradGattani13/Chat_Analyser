@@ -14,3 +14,4 @@ Using this any user can have a complete analysis of their chats (Individual Or G
 <li>Most Common occuring words (after removal of stopwords)</li>
 <li>Word Cloud</li>
 <li>Heat Map</li>
+![Screenshot (953)](https://user-images.githubusercontent.com/95417003/234653969-7c44fcf1-4797-4432-b622-d136d76e2d94.jpg)
