@@ -24,6 +24,8 @@ if uploaded_file is not None:
     user_list.sort()
     user_list.insert(0,"Overall",)
     selected_user=st.sidebar.selectbox("Show Analysis with respect to ",user_list)
+    
+    st.title("Created By : Varad Gattani")
 
 
     if st.sidebar.button("Show Analysis"):
