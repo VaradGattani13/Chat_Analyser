@@ -1,9 +1,0 @@
-streamlit
-seaborn
-matplotlib
-urlextract
-pandas
-numpy
-wordcloud
-emojis
-stopward.txt
