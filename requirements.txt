@@ -1,7 +1,5 @@
 emoji==2.2.0
-
 matplotlib
-
 pandas
 seaborn
 streamlit
